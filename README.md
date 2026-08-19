@@ -454,4 +454,4 @@ When adding a tool:
 
 ## License
 
-This list is intended as a community resource. Contributions should be submitted with permission for the project to publish the contributed text under the repository's chosen license.
+This list is intended as a community resource. Contributions should be submitted with permission for the project to publish the contributed text under the repository's chosen license..
