@@ -262,6 +262,7 @@ The goal is to keep a practical, developer-focused collection rather than an ind
 - **[Nango](https://www.nango.dev)** — Hundreds of pre-built product integrations with 250+ APIs, customizable in code.
 - **[Panora](https://panora.dev)** — Easy, flexible API to add customer-facing integrations to your SaaS product.
 - **[Revert](https://revert.dev)** — Open-source unified API to build B2B product integrations.
+- **[SandBase](https://sandbase.ai)** — Unified access to 2,000+ AI models and APIs through an OpenAI Responses endpoint and a local MCP bridge.
 - **[Sequin](https://sequin.io/)** — Interface with third-party services using SQL.
 - **[Vessel](https://www.vessel.dev/)** — Developer-first, native integration platform for GTM tools.
 - **[YepCode](https://yepcode.io/)** — Build and run serverless functions with the best development experience.
