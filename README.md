@@ -63,6 +63,7 @@ The goal is to keep a practical, developer-focused collection rather than an ind
 - **[OpenHands](https://all-hands.dev/)** — an open-source Devin alternative.
 - **[Qodo](https://www.qodo.ai/)** — Focusing on confident code generation (focused on testing well).
 - **[Replit AI](http://repl.it/)** — Replit's code IDE using AI (has also a free limited plan).
+- **[Sillage](https://github.com/MarlBurroW/sillage)** - Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine.
 - **[Supermaven](https://supermaven.com/)** — Heard really good things, especially around speed and context length.
 - **[Tabby](https://www.tabbyml.com/)** — Self-hosted open-source coding assistant.
 - **[Tabnine](https://www.tabnine.com/)** — One of the OG players in the AI code assistant space.
