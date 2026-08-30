@@ -131,6 +131,7 @@ The goal is to keep a practical, developer-focused collection rather than an ind
 - **[Ona](https://www.ona.com/)** — Automated cloud dev environments.
 - **[RunMyJob](https://runmyjob.io/)** — Cloud runners for GitHub Actions and GitLab CI.
 - **[Spacelift](https://spacelift.io/)** — CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
+- **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** — Self-hosted AI agent runtime with durable sessions, sandboxed execution, approvals, artifacts, audit, and replay through a local MCP bridge.
 
 ## CMS & Content Platforms
 
