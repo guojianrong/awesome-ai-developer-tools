@@ -413,6 +413,7 @@ The goal is to keep a practical, developer-focused collection rather than an ind
 
 ## Testing, QA & Performance
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** — Natural-language web, Android, and iOS testing with execution memory, a CLI, and MCP tools; source-available under FSL-1.1-ALv2.
 - **[Applitools](https://applitools.com/)** — Automated visual testing.
 - **[Beeceptor](https://beeceptor.com/)** — No-code, cloud-based platform for mocking and debugging multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers with rules-based logic, CRUD & stateful mocking, proxying, and CORS management for faster integration and testing.
 - **[BitDive](https://bitdive.io/)** — Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
