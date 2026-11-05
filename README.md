@@ -166,6 +166,7 @@ The goal is to keep a practical, developer-focused collection rather than an ind
 
 ## Debugging & Developer Productivity
 
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** — GPL-3.0-only macOS network diagnostics with JSON output, a TUI and a local MCP server.
 - **[Lightrun](https://www.lightrun.com)** — Debug production servers using a plugin in the IDE (on-prem or SaaS) that supports Java, Node.js, and Python.
 - **[Linear](https://linear.app/)** — Issue tracking built for developers.
 - **[Multiplayer](https://www.multiplayer.app)** — Debugging agent that runs locally next to your favorite coding agents (open source or SaaS), feeding them full-stack, unsampled runtime data to catch and fix bugs automatically.
