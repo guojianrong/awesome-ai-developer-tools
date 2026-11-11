@@ -121,6 +121,7 @@ The goal is to keep a practical, developer-focused collection rather than an ind
 - **[Appwrite](https://appwrite.io/)** — End-to-end backend server for frontend and mobile developers.
 - **[Encore](https://encore.dev/)** — Open-source TypeScript backend framework for robust type-safe applications.
 - **[Jamsocket](https://jamsocket.com/)** — Backends for real-time apps.
+- **[Nhost](https://nhost.io/)** — Open-source backend for agentic apps: Postgres, GraphQL, auth, storage and functions.
 - **[Supabase](https://supabase.com/)** — Hosted and open-source managed Postgres DB like Firebase.
 
 ## CI/CD & DevOps
